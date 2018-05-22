@@ -1,0 +1,33 @@
+{
+  "name": "projetdevb3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "bcrypt": "^2.0.1",
+    "cfenv": "^1.1.0",
+    "cloudinary": "^1.11.0",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.1",
+    "morgan": "^1.9.0",
+    "require-dir": "^1.0.0",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrCranito/projetdevB3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrCranito/projetdevB3/issues"
+  },
+  "homepage": "https://github.com/MrCranito/projetdevB3#readme"
+}
